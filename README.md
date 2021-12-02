@@ -32,3 +32,6 @@
 
 *Your program must include a function/functions that will calculate the cost of the Parcel and return the cost to the calling function.*
 
+## isEven.js ##
+
+*Write a program that requests from the user an integer value. The program is required to determine if the value entered by the user is an even or odd number. Write a function isEven which accepts the integer values and returns true if the integer value is even and false if the value is odd.*
