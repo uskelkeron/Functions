@@ -18,3 +18,22 @@
 ## Question 5: SimpleCalculator.js ##
 
 *Write a program that will read two numbers and an integer code from the keyboard. The value of the integer code should be 1, 2, 3 or 4. If the value of the code is 1, compute the sum of the two numbers. If the code is 2, compute the difference (first minus second). If the code is 3, compute the product of the two numbers. If the code is 4, and the second number is not zero, compute the quotient (first divided by the second). If the code is not equal to 1, 2, 3 or 4, display an error message. The program is then to display the two numbers, the integer code and the computed result to the screen*
+
+## Question 6: WeightCost.js ##
+
+*Design a program that will receive the weight of a parcel and determine the delivery charge for that parcel. Charges are calculated as follows:*
+
+#### Parcel Weight (kg)
+#### Cost per kg ($)
+#### <2.5 kg
+#### $3.50 per kg
+#### 2.5–5 kg
+#### $2.85 per kg
+#### >5-7 kg
+#### $2.45 per kg
+#### >7
+#### $3.25 per kg
+
+
+*Your program must include a function/functions that will calculate the cost of the Parcel and return the cost to the calling function.*
+

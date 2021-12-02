@@ -60,5 +60,9 @@ else if ( code === 4)
     printResult(number1,number2,symbol,answer);
 
 }
+else
+{
+    console.log("Please enter valid code in order to perform Arithmetic")
+}
     
 })();
