@@ -23,16 +23,11 @@
 
 *Design a program that will receive the weight of a parcel and determine the delivery charge for that parcel. Charges are calculated as follows:*
 
-#### Parcel Weight (kg)
-#### Cost per kg ($)
-#### <2.5 kg
-#### $3.50 per kg
-#### 2.5–5 kg
-#### $2.85 per kg
-#### >5-7 kg
-#### $2.45 per kg
-#### >7
-#### $3.25 per kg
+### Parcel Weight (kg) Cost per kg ($) ###
+-   <2.5 kg  $3.50 per kg
+-   2.5–5 kg $2.85 per kg
+-   >5-7 kg  $2.45 per kg
+-   >7       $3.25 per kg
 
 
 *Your program must include a function/functions that will calculate the cost of the Parcel and return the cost to the calling function.*
