@@ -8,9 +8,13 @@
 
 *Write a program to calculate the square of a number. The square must be calculated by creating a function called sqr which receives the appropriate parameters, calculates the square of the number and returns it to the calling function.*
 
-## Question 3: NumCube.js   ##\-\=]''//////////////?
+## Question 3: NumCube.js   ##
 *Write a program to calculate the cube of a number. The square must be calculated by creating a function called cube which receives the appropriate parameters, calculates the cube of the number and returns it to the calling function.*
 
-## Question 4: AreaCircle.js ##4
+## Question 4: AreaCircle.js ##
 
 *Write a program that calculates an Area of a circle. The area of the circle must be calculated by creating a function called areaCircle which receives the appropriate arguments, calculates the area and returns it to the calling function.d*
+
+## Question 5: SimpleCalculator.js ##
+
+*Write a program that will read two numbers and an integer code from the keyboard. The value of the integer code should be 1, 2, 3 or 4. If the value of the code is 1, compute the sum of the two numbers. If the code is 2, compute the difference (first minus second). If the code is 3, compute the product of the two numbers. If the code is 4, and the second number is not zero, compute the quotient (first divided by the second). If the code is not equal to 1, 2, 3 or 4, display an error message. The program is then to display the two numbers, the integer code and the computed result to the screen*
