@@ -39,3 +39,7 @@
 ## Question 8: isOdd.js ##
 
 *Write an odd calculator program that will display all the odd numbers between a specified range. The program should prompt the user for a start number to indicate the start of the range and an end number to indicate the end of the range. Write a function isOdd which, given an integer value, returns 1 if the number is odd, 2 if the number is even and 0 if the number is a zero.*
+
+## Question 9: OddAverage.js ##
+
+*Write a program to read 6 numbers and find the average of all odd numbers. Your program must calculate and print the average of all the odd numbers.*
