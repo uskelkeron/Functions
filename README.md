@@ -43,3 +43,20 @@
 ## Question 9: OddAverage.js ##
 
 *Write a program to read 6 numbers and find the average of all odd numbers. Your program must calculate and print the average of all the odd numbers.*
+
+
+## Question 10: Factors.js ##
+
+*Write a program that will prompt the user for 3 numbers and then print out all the factors of that number. Your program must include a function that will calculate and print the factors of each number entered.*
+
+
+## Question 11: Discount.js ##
+
+*Pricesmart Membership Club is giving a discount to its members.  The discount is calculated by a discount rate that is attached to a code given at the cashier.   Write a program that will calculate the discount amount for several customers. The program must request from the user each member’s number, name, total amount of bill and the pricing code.  The program must calculate the total amount each member has to pay.  Before the discount is calculated, VAT (15%) is added to the total amount of the bill.*
+
+*Create 2 functions that is, firstly, to calculate the total amount plus VAT and secondly, the amount after discount. The functions must accept the appropriate values and return the relevant values. The output is a member’s number, name, total amount of bill, total amount of bill plus VAT, and amount after discount.*
+
+
+
+ 
+
